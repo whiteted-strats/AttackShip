@@ -5,6 +5,6 @@ This contains a pdf detailing the approach used to model the mathematics behind 
 
 This repository also contains the main Python script which was used to compute the probabilities. The other two scripts are a simulator, showing that my theory stands up to reality, and a simpler script which does not model the "timeout" feature of the enemies' spawns. These are discussed in the pdf.
 
-We arrive at a probability of doing atleast as well in the ending of 1 in 1037.
+We arrive at a probability of 1 in 1037 of doing atleast as well in the ending as in the 2:06 run.
 
 This was originally inspired by RWhiteGoose's video (https://www.youtube.com/watch?v=cJMQDY8Ci90)
